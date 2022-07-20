@@ -1,0 +1,117 @@
+Old code
+
+
+Get Annual PnL 
+CLIENT-SIDE
+1) Client: store/actions/finance.js
+const getAnnualPnL = (payload) => {
+    return async dispatch => {
+        dispatch({
+            type: financeActionTypes.GET_ANNUAL_PNL_REQUEST
+        })
+        try {
+            const result = await axios.post('/finance/pnl/annual', payload)
+            const { annualPnL } = result.data
+            dispatch({
+                type: financeActionTypes.GET_ANNUAL_PNL_SUCCESS,
+                payload: {
+                    annualPnL
+                }
+            })
+        } catch (error) {
+            dispatch({
+                type: financeActionTypes.GET_ANNUAL_PNL_FAILURE,
+                payload: {
+                    error
+                }
+            })
+        }
+    }
+}
+
+2) Client: store/actions/actionTypes
+const financeActionTypes = {
+    GET_ANNUAL_PNL_REQUEST: "GET_ANNUAL_PNL_REQUEST",
+    GET_ANNUAL_PNL_SUCCESS: "GET_ANNUAL_PNL_SUCCESS",
+    GET_ANNUAL_PNL_FAILURE: "GET_ANNUAL_PNL_FAILURE"
+}
+
+
+
+
+createTable.js
+
+   // Price
+   if (columnsToRender.Price) { temp.Price = formatNum(stock.price) }
+   if (columnsToRender['Price Change']) { temp['Price Change'] = stock.price_change.replace(/^([+/-])?(.*) /, (match, p1, p2) => (p1 ? p1 : '') + formatNum(p2) + ' ') }
+   if (columnsToRender['Price Target']) { temp['Price Target'] = formatNum(stock.price_target) }
+   if (columnsToRender['Market Cap']) { temp['Market Cap'] = formatNum(stock.cap_base) }
+
+   // Profile
+   if (columnsToRender.Company) { temp.Company = stock.name + ` (${stock.curr_code_ex})` }
+   if (columnsToRender.Sector) { temp.Sector = stock.sector }
+   if (columnsToRender.Industry) { temp.Industry = stock.industry }
+   if (columnsToRender['Full Time Employees']) { temp['Full Time Employees'] = stock.no_employee }
+
+   // PnL (Year)
+   if (period) {
+     const statements = data[ticker].pL
+     const pnl = statements.filter(s => s.year.slice(-4) === period)[0]
+     if (columnsToRender.Revenue) { temp.Revenue = formatNum(pnl.rev_base) }
+     if (columnsToRender.Earnings) { temp.Earnings = formatNum(pnl.net_pl_base) }
+   }
+
+   const row = columns.map(col => temp[col])
+   table.push(row)
+
+
+
+Edit Columns 
+
+In EditColumn.js
+
+    const [search, setSearch] = useState('')
+
+    let filtered = [], recommendations = []
+    if (search !== '') filtered = Object.keys(columnStats).filter(col => (col.toLowerCase().indexOf(search.toLowerCase()) !== -1))
+    recommendations = filtered.map(col => ({ value: col, text: col }))
+    const placeholder = 'Search for a column...'
+
+    // Search Bar component
+
+    const onResultClicked = (e) => {
+        const updatedColumns = [...modalColumns]
+        updatedColumns.push(e.target.getAttribute('value'))
+        setModalColumns(updatedColumns)
+        setSearch('')
+    }
+
+    const onRemoveColumn = (index) => {
+        const updatedColumns = [...modalColumns]
+        updatedColumns.splice(index, 1)
+        setModalColumns(updatedColumns)
+    }
+
+    // Cross beside column selections 
+    <IoMdClose className='close-btn text-danger' role='button' onClick={() => onRemoveColumn(index)}/>
+
+
+
+Tickers managed in local state - Add tickers 
+
+    const [tickers, setTickers] = useState(["Z74.SI"])
+
+    const addTicker = (ticker) => {
+        const updated = [...tickers]
+        updated.push(ticker)
+        const columns = templates.find(el => el.name === currentTemplate).columns
+        const payload = {
+            columns,
+            tickers: updated
+        }
+        // Note: This is not efficient
+        dispatch(getInitialData(payload)).then(() => {
+            setSelectedRows([])
+            setTickers(updated)
+        })
+    }

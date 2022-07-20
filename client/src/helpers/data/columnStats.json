@@ -1,0 +1,210 @@
+{
+    "Price": {
+        "units": "Exch | USD",
+        "whrInData": {
+            "location": "stock",
+            "key": "price"
+        },
+        "alignRight": true,
+        "category": "Price"
+    },
+    "Price Change": {
+        "units": "Exch",
+        "whrInData": {
+            "location": "stock",
+            "key": "price_change"
+        },
+        "alignRight": true,
+        "category": "Price"
+    },
+    "Price Target": {
+        "units": "Exch",
+        "whrInData": {
+            "location": "stock",
+            "key": "price_target"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Volume": {
+        "whrInData": {
+            "location": "stock",
+            "key": "vol"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Average Volume": {
+        "whrInData": {
+            "location": "stock",
+            "key": "ave_vol"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Market Cap": {
+        "units": "USD",
+        "whrInData": {
+            "location": "stock",
+            "key": "cap_base"
+        },
+        "type": "numeric",
+        "alignRight": "right"
+    },
+    "Company": {
+        "whrInData": {
+            "location": "stock",
+            "key": "name"
+        }
+    },
+    "Sector": {
+        "whrInData": {
+            "location": "stock",
+            "key": "sector"
+        }
+    },
+    "Industry": {
+        "whrInData": {
+            "location": "stock",
+            "key": "industry"
+        }
+    },
+    "EX": {
+        "whrInData": {
+            "location": "stock",
+            "key": "exchange"
+        }
+    },
+    "Full Time Employees": {
+        "whrInData": {
+            "location": "stock",
+            "key": "no_employee"
+        },
+        "alignRight": true
+    },
+    "PE Ratio": {
+        "whrInData": {
+            "location": "stock",
+            "key": "pe"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "PS Ratio": {
+        "whrInData": {
+            "location": "stock",
+            "key": "ps"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "PB Ratio": {
+        "whrInData": {
+            "location": "stock",
+            "key": "pb"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Revenue": {
+        "units": "USD",
+        "whrInData": {
+            "location": "pnl",
+            "key": "rev_base"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Earnings": {
+        "units": "USD",
+        "whrInData": {
+            "location": "pnl",
+            "key": "net_pl_base"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Gross Profit": {
+        "units": "USD",
+        "whrInData": {
+            "location": "pnl",
+            "key": "gp_base"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Oper. Income": {
+        "units": "USD",
+        "whrInData": {
+            "location": "pnl",
+            "key": "op_inc_base"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Gross Margin": {
+        "whrInData": {
+            "location": "ratios",
+            "key": "gpm_base"
+        },
+        "type": "percentage",
+        "alignRight": true
+    },
+    "Oper. Margin": {
+        "whrInData": {
+            "location": "ratios",
+            "key": "opm_base"
+        },
+        "type": "percentage",
+        "alignRight": true
+    },
+    "Profit Margin": {
+        "whrInData": {
+            "location": "ratios",
+            "key": "npm_base"
+        },
+        "type": "percentage",
+        "alignRight": true
+    },
+    "EPS": {
+        "units": "USD",
+        "whrInData": {
+            "location": "ratios",
+            "key": "eps_base"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Debt-to-Equity": {
+        "whrInData": {
+            "location": "ratios",
+            "key": "DtoE_base"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Debt-to-Asset": {
+        "whrInData": {
+            "location": "ratios",
+            "key": "DtoA_base"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Current Ratio": {
+        "whrInData": {
+            "location": "ratios",
+            "key": "cr_base"
+        },
+        "type": "numeric",
+        "alignRight": true
+    },
+    "Quick Ratio": {
+        "whrInData": {
+            "location": "ratios",
+            "key": "qr_base"
+        },
+        "type": "numeric",
+        "alignRight": true
+    }
+}

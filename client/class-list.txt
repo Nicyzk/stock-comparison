@@ -1,0 +1,230 @@
+All Classes in Library. 
+
+.App
+
+:root {
+  --primary: #0d6efd;
+  --dark-purple: #654a86;
+  --purple: #6b62de;
+  --lavender: #f7f5fb;
+  --danger: #dc3545;
+  --secondary: #6c757d;
+  --muted: #c9ccce;
+  --success: #198754;
+  --alice-blue: #fafbfc;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+a
+h1, h2, h3, h4, h5, h6
+label
+
+.navbar
+.navbar-brand
+.navbar-nav-md
+
+.shadow
+
+.toggle-menu-icon
+.slider
+
+.img
+
+@media (min-width: 768px) {
+
+  .navbar-nav-md
+  .slider-collapse-md
+  .toggle-menu-icon
+
+}
+
+.dropdown
+.dropdown > div (border-bottom)
+
+.bg-light
+.bg-primary
+.bg-white
+.bg-dark-purple
+.bg-lavender-diag
+.bg-lavender
+.bg-alice-blue
+
+.bg-backdrop
+
+.position-fixed
+.position-relative
+.position-absolute
+.position-sticky
+
+.top
+.bottom
+.left
+
+.float-right
+
+.mx-1 
+.mx-auto
+.my-1
+.my-2
+.mt-0
+.mr-1
+.mb-1
+
+.p-1 
+.p-md-4
+.px-1
+.px-md-1
+.px-lg-2
+.px-lg-6
+.px-xl-5
+.px-xl-6
+.px-xl-10
+.py-05
+.py-125
+.py-3
+.py-6
+.pb-3
+
+.border-light
+.border-btm-light
+
+.h-100
+.h-60px
+.w-70
+.w-100
+
+.w-sm-300px
+.w-sm-auto
+.w-md-40
+.w-md-50
+.w-md-60
+
+
+.vw-100
+.vh-100
+
+.d-inline-block
+
+.fl 
+.inline-fl
+.fl-justify-between
+.fl-justify-center
+.fl-wrap
+.fl-center-y
+
+.fl-sm-row
+
+.fl-col
+.fl-col-center-x
+.align-self-end
+
+
+.btn
+.bs-btn
+.btn-purple
+.btn-primary
+.btn-outline-primary
+.btn-outline-purple
+.btn-outline-danger
+
+[role=button]
+
+.text-center
+.text-right
+
+.text-white
+.text-primary
+.text-secondary
+.text-danger
+.text-muted
+.text-dark-purple
+.text-purple
+.text-success
+.text-hover-purple
+.text-md-left
+
+.fs-1
+.fs-2
+.fs-3
+.fs-4
+.fs-5
+// Above all larger than 1 rem\
+.fs-10px
+.fs-13px
+.fs-14px
+
+
+.fw-bold
+.shadow
+
+.br-5px
+
+.list-unstyled
+
+.form-label /*mb-0.5*/
+.form-control 
+
+
+.table
+.table-responsive
+.table-2nd-col-sticky
+.table-striped
+.table-bordered-between
+
+
+// Custom
+
+// Menu Slider
+.options-border-btm
+
+.search-bar
+.search-bar-border-round
+.results
+
+.icon /p-relative & top 2px/
+.sort-icon
+.add-icon
+
+.close-btn  /h-20px & w-20px/
+.icon-lg /h-80px & w-80px/
+
+.select, .select-button, .chevrons, .options, .option
+
+.speech-bubble
+
+// Create new tab
+.indicatorContainer /Fixed width: 900px/
+
+// ProductSectionHome
+.pdt-img
+.list-radio
+
+// Profile Page and therefore used in Export page. 
+.limit-width /1200px/
+.profile-item /border-bottom & hover lavender/
+
+
+// Login Page
+.login-panel
+
+
+// Screener
+.screener-tab
+.filtersContainer
+
+// Blog Index
+.blog-index-grid
+.blog-index-item
+.imgcontainer 
+
+// Blog Post
+.post-hero
+.layout-post-content
+.layout-post-toc 
+.post-content
+.post-toc

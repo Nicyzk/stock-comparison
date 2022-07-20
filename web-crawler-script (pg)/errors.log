@@ -1,0 +1,202 @@
+Time:TueApr13202100:03:17GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:Protocolerror(Page.navigate):Sessionclosed.Mostlikelythepagehasbeenclosed.
+Time:SatApr17202121:37:26GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:sqlisnotdefined
+Time:SatApr17202121:41:03GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:client.releaseisnotafunction
+Time:SatApr17202121:50:46GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:invalidinputsyntaxfortypetimestamp:"CURRENT_TIMESTAMP"
+Time:SatApr17202122:08:01GMT+0800(SingaporeStandardTime),FailedAt:AT,Error:tickerisnotdefined
+Time:SatApr17202122:08:49GMT+0800(SingaporeStandardTime),FailedAt:AT,Error:duplicatekeyvalueviolatesuniqueconstraint"stock_pkey"
+Time:FriApr23202112:57:25GMT+0800(SingaporeStandardTime),FailedAt:undefined,Error:Couldnotfindexpectedbrowser(chrome)locally.Run`npminstall`todownloadthecorrectChromiumrevision(856583).
+Time:FriApr23202123:25:15GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:column"code"ofrelation"annual_income_statement"doesnotexist
+Time:FriApr23202123:29:01GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:syntaxerroratornear"desc"
+Time:FriApr23202123:29:55GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:syntaxerroratornear"desc"
+Time:FriApr23202123:30:27GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:syntaxerroratornear"desc"
+Time:FriApr23202123:32:53GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:syntaxerroratornear"desc"
+Time:FriApr23202123:33:08GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:syntaxerroratornear"desc"
+Time:FriApr23202123:34:28GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:syntaxerroratornear"desc"
+Time:FriApr23202123:36:30GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:syntaxerroratornear"desc"
+Time:SatApr24202100:14:45GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:Evaluationfailed:ReferenceError:toFullNumisnotdefined
+at__puppeteer_evaluation_script__:14:27
+Time:SatApr24202100:16:11GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:nullvalueincolumn"pe"ofrelation"stk_price"violatesnot-nullconstraint
+Time:SatApr24202100:25:04GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:Evaluationfailed:ReferenceError:numisnotdefined
+atformatNum(__puppeteer_evaluation_script__:9:31)
+at__puppeteer_evaluation_script__:15:23
+Time:SatApr24202114:15:07GMT+0800(SingaporeStandardTime),FailedAt:1833.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelectorAll'ofnull
+at__puppeteer_evaluation_script__:5:110
+Time:SatApr24202114:30:17GMT+0800(SingaporeStandardTime),FailedAt:9999.HK,Error:nullvalueincolumn"no_employee"ofrelation"stk"violatesnot-nullconstraint
+Time:SatApr24202114:35:10GMT+0800(SingaporeStandardTime),FailedAt:0136.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelectorAll'ofnull
+at__puppeteer_evaluation_script__:5:110
+Time:WedApr28202114:40:34GMT+0800(SingaporeStandardTime),FailedAt:0005.HK,Error:Cannotreadproperty'0'ofundefined
+Time:WedApr28202114:40:56GMT+0800(SingaporeStandardTime),FailedAt:0005.HK,Error:Cannotreadproperty'0'ofundefined
+Time:WedApr28202114:41:23GMT+0800(SingaporeStandardTime),FailedAt:0005.HK,Error:Cannotreadproperty'0'ofundefined
+Time:WedApr28202114:42:14GMT+0800(SingaporeStandardTime),FailedAt:0005.HK,Error:Cannotreadproperty'0'ofundefined
+Time:WedApr28202114:43:19GMT+0800(SingaporeStandardTime),FailedAt:0005.HK,Error:Cannotreadproperty'0'ofundefined
+Time:WedApr28202114:43:57GMT+0800(SingaporeStandardTime),FailedAt:0005.HK,Error:Cannotreadproperty'0'ofundefined
+Time:WedApr28202114:46:57GMT+0800(SingaporeStandardTime),FailedAt:0005.HK,Error:Cannotreadproperty'ex_rate'ofundefined
+Time:WedApr28202114:47:46GMT+0800(SingaporeStandardTime),FailedAt:0005.HK,Error:INSERThasmoretargetcolumnsthanexpressions
+Time:WedApr28202114:48:15GMT+0800(SingaporeStandardTime),FailedAt:0005.HK,Error:insertorupdateontable"stk_fs"violatesforeignkeyconstraint"fk_code"
+Time:ThuApr29202115:57:15GMT+0800(SingaporeStandardTime),FailedAt:undefined,Error:Couldnotfindexpectedbrowser(chrome)locally.Run`npminstall`todownloadthecorrectChromiumrevision(856583).
+Time:ThuApr29202115:57:34GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:Cannotreadproperty'ex_rate'ofundefined
+Time:FriApr30202112:29:26GMT+0800(SingaporeStandardTime),FailedAt:undefined,Error:Couldnotfindexpectedbrowser(chrome)locally.Run`npminstall`todownloadthecorrectChromiumrevision(856583).
+Time:FriApr30202112:29:43GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_fs_pkey"
+Time:FriApr30202112:30:55GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_fs_pkey"
+Time:FriApr30202112:33:55GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_fs_pkey"
+Time:FriApr30202115:13:58GMT+0800(SingaporeStandardTime),FailedAt:6060.HK,Error:Evaluationfailed:TypeError:hdrList.mapisnotafunction
+at__puppeteer_evaluation_script__:31:30
+Time:FriApr30202115:16:22GMT+0800(SingaporeStandardTime),FailedAt:6060.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'forEach'ofundefined
+at__puppeteer_evaluation_script__:32:20
+Time:FriApr30202115:18:13GMT+0800(SingaporeStandardTime),FailedAt:6060.HK,Error:nullvalueincolumn"amt"ofrelation"stk_fs"violatesnot-nullconstraint
+Time:FriApr30202115:30:31GMT+0800(SingaporeStandardTime),FailedAt:6060.HK,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_fs_pkey"
+Time:SatMay01202114:54:45GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:valuetoolongfortypecharactervarying(10)
+Time:SatMay01202115:04:33GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:sisnotdefined
+Time:SatMay01202115:05:22GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SatMay01202115:07:54GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SatMay01202115:34:21GMT+0800(SingaporeStandardTime),FailedAt:0005.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelectorAll'ofundefined
+at__puppeteer_evaluation_script__:42:31
+Time:SatMay01202116:37:24GMT+0800(SingaporeStandardTime),FailedAt:0005.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelectorAll'ofundefined
+atreturnList(__puppeteer_evaluation_script__:43:32)
+at__puppeteer_evaluation_script__:50:24
+Time:SatMay01202118:08:38GMT+0800(SingaporeStandardTime),FailedAt:3690.HK,Error:Evaluationfailed:TypeError:list.everyisnotafunction
+atreturnList(__puppeteer_evaluation_script__:46:22)
+at__puppeteer_evaluation_script__:51:27
+Time:SatMay01202119:40:52GMT+0800(SingaporeStandardTime),FailedAt:2382.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SatMay01202119:42:47GMT+0800(SingaporeStandardTime),FailedAt:0522.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SatMay01202119:44:51GMT+0800(SingaporeStandardTime),FailedAt:0522.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SatMay01202119:45:17GMT+0800(SingaporeStandardTime),FailedAt:0522.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SatMay01202119:46:08GMT+0800(SingaporeStandardTime),FailedAt:0522.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SatMay01202119:48:00GMT+0800(SingaporeStandardTime),FailedAt:9999.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'textContent'ofundefined
+at__puppeteer_evaluation_script__:81:50
+Time:SatMay01202119:48:53GMT+0800(SingaporeStandardTime),FailedAt:9999.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'textContent'ofundefined
+at__puppeteer_evaluation_script__:81:50
+Time:SatMay01202119:50:54GMT+0800(SingaporeStandardTime),FailedAt:9999.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'textContent'ofundefined
+at__puppeteer_evaluation_script__:81:50
+Time:SatMay01202120:39:03GMT+0800(SingaporeStandardTime),FailedAt:9999.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'textContent'ofundefined
+at__puppeteer_evaluation_script__:85:48
+Time:SatMay01202120:46:09GMT+0800(SingaporeStandardTime),FailedAt:9999.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'textContent'ofundefined
+at__puppeteer_evaluation_script__:83:52
+Time:SatMay01202120:57:09GMT+0800(SingaporeStandardTime),FailedAt:9999.HK,Error:invalidinputsyntaxfortypenumeric:"Infinity"
+Time:SatMay01202121:00:44GMT+0800(SingaporeStandardTime),FailedAt:9999.HK,Error:Cannotaccess'ex_rate'beforeinitialization
+Time:SunMay02202117:07:43GMT+0800(SingaporeStandardTime),FailedAt:2400.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SunMay02202118:32:21GMT+0800(SingaporeStandardTime),FailedAt:undefined,Error:queryisnotdefined
+Time:SunMay02202118:41:36GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:numericfieldoverflow
+Time:SunMay02202118:43:22GMT+0800(SingaporeStandardTime),FailedAt:1810.HK,Error:numericfieldoverflow
+Time:SunMay02202118:52:16GMT+0800(SingaporeStandardTime),FailedAt:0700.HK,Error:Cannotreadproperty'amt'ofundefined
+Time:SunMay02202119:01:33GMT+0800(SingaporeStandardTime),FailedAt:0700.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SunMay02202119:03:06GMT+0800(SingaporeStandardTime),FailedAt:0981.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SunMay02202119:03:26GMT+0800(SingaporeStandardTime),FailedAt:0268.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SunMay02202119:04:08GMT+0800(SingaporeStandardTime),FailedAt:1833.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SunMay02202119:04:31GMT+0800(SingaporeStandardTime),FailedAt:0285.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SunMay02202119:04:45GMT+0800(SingaporeStandardTime),FailedAt:0285.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SunMay02202119:04:57GMT+0800(SingaporeStandardTime),FailedAt:0285.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SunMay02202119:06:29GMT+0800(SingaporeStandardTime),FailedAt:0136.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SunMay02202119:06:51GMT+0800(SingaporeStandardTime),FailedAt:0136.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:SunMay02202119:07:21GMT+0800(SingaporeStandardTime),FailedAt:1478.HK,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:TueMay04202114:14:44GMT+0800(SingaporeStandardTime),FailedAt:J37.SI,Error:waitingforselector`#Col1-0-Profile-Proxy`failed:timeout30000msexceeded
+Time:TueMay04202114:17:43GMT+0800(SingaporeStandardTime),FailedAt:J37.SI,Error:waitingforselector`#Col1-0-Profile-Proxy`failed:timeout30000msexceeded
+Time:TueMay04202114:23:40GMT+0800(SingaporeStandardTime),FailedAt:C38U.SI,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_pkey"
+Time:TueMay04202114:34:30GMT+0800(SingaporeStandardTime),FailedAt:Z74.SI,Error:Evaluationfailed:TypeError:Cannotreadproperty'textContent'ofundefined
+at__puppeteer_evaluation_script__:55:49
+Time:TueMay04202115:13:20GMT+0800(SingaporeStandardTime),FailedAt:Z74.SI,Error:Evaluationfailed:TypeError:Cannotreadproperty'textContent'ofundefined
+at__puppeteer_evaluation_script__:55:49
+Time:TueMay04202115:44:29GMT+0800(SingaporeStandardTime),FailedAt:Z74.SI,Error:Cannotreadproperty'ex_rate'ofundefined
+Time:TueMay04202115:50:00GMT+0800(SingaporeStandardTime),FailedAt:S68.SI,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:TueMay04202115:50:51GMT+0800(SingaporeStandardTime),FailedAt:Z74.SI,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_fs_pkey"
+Time:TueMay04202115:51:51GMT+0800(SingaporeStandardTime),FailedAt:BUOU.SI,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:TueMay04202115:52:02GMT+0800(SingaporeStandardTime),FailedAt:BUOU.SI,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:TueMay04202115:53:07GMT+0800(SingaporeStandardTime),FailedAt:BUOU.SI,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:TueMay04202116:02:18GMT+0800(SingaporeStandardTime),FailedAt:BUOU.SI,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:TueMay04202116:03:00GMT+0800(SingaporeStandardTime),FailedAt:BUOU.SI,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:TueMay04202116:06:38GMT+0800(SingaporeStandardTime),FailedAt:BN4.SI,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:TueMay04202116:12:24GMT+0800(SingaporeStandardTime),FailedAt:BN4.SI,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:TueMay04202116:27:58GMT+0800(SingaporeStandardTime),FailedAt:BN4.SI,Error:Protocolerror(Page.navigate):Sessionclosed.Mostlikelythepagehasbeenclosed.
+Time:TueMay04202116:28:47GMT+0800(SingaporeStandardTime),FailedAt:BN4.SI,Error:Protocolerror(Page.navigate):Sessionclosed.Mostlikelythepagehasbeenclosed.
+Time:TueMay04202116:30:26GMT+0800(SingaporeStandardTime),FailedAt:BS6.SI,Error:Evaluationfailed:TypeError:Assignmenttoconstantvariable.
+atformatDateEnding(__puppeteer_evaluation_script__:96:26)
+at__puppeteer_evaluation_script__:102:35
+Time:TueMay04202116:31:53GMT+0800(SingaporeStandardTime),FailedAt:D05.SI,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelectorAll'ofnull
+at__puppeteer_evaluation_script__:5:110
+Time:TueMay04202116:41:27GMT+0800(SingaporeStandardTime),FailedAt:Y92.SI,Error:Cannotreadproperty'ex_rate'ofundefined
+Time:FriMay14202116:49:25GMT+0800(SingaporeStandardTime),FailedAt:undefined,Error:Couldnotfindexpectedbrowser(chrome)locally.Run`npminstall`todownloadthecorrectChromiumrevision(856583).
+Time:FriMay14202116:51:34GMT+0800(SingaporeStandardTime),FailedAt:CVX,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelectorAll'ofnull
+at__puppeteer_evaluation_script__:5:110
+Time:FriMay14202116:53:49GMT+0800(SingaporeStandardTime),FailedAt:XOM,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelectorAll'ofnull
+at__puppeteer_evaluation_script__:5:110
+Time:FriMay14202116:55:37GMT+0800(SingaporeStandardTime),FailedAt:UNH,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelectorAll'ofnull
+at__puppeteer_evaluation_script__:5:110
+Time:FriMay14202116:56:28GMT+0800(SingaporeStandardTime),FailedAt:V,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:FriMay14202116:57:28GMT+0800(SingaporeStandardTime),FailedAt:V,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:FriMay14202116:57:56GMT+0800(SingaporeStandardTime),FailedAt:V,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:MonMay17202116:55:50GMT+0800(SingaporeStandardTime),FailedAt:undefined,Error:Couldnotfindexpectedbrowser(chrome)locally.Run`npminstall`todownloadthecorrectChromiumrevision(856583).
+Time:MonMay17202116:56:11GMT+0800(SingaporeStandardTime),FailedAt:M44U.SI,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_pkey"
+Time:MonMay17202116:56:28GMT+0800(SingaporeStandardTime),FailedAt:A17U.SI,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_pkey"
+Time:MonMay17202116:56:39GMT+0800(SingaporeStandardTime),FailedAt:N2IU.SI,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_pkey"
+Time:MonMay17202116:57:13GMT+0800(SingaporeStandardTime),FailedAt:C38U.SI,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_pkey"
+Time:MonMay17202116:57:31GMT+0800(SingaporeStandardTime),FailedAt:ME8U.SI,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_pkey"
+Time:MonMay17202116:58:30GMT+0800(SingaporeStandardTime),FailedAt:BUOU.SI,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_pkey"
+Time:MonMay17202116:59:15GMT+0800(SingaporeStandardTime),FailedAt:CLR.SI,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelector'ofnull
+at__puppeteer_evaluation_script__:3:39
+Time:MonMay17202117:00:43GMT+0800(SingaporeStandardTime),FailedAt:CLR.SI,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelector'ofnull
+at__puppeteer_evaluation_script__:3:39
+Time:MonMay17202117:00:52GMT+0800(SingaporeStandardTime),FailedAt:H78.SI,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_pkey"
+Time:MonMay17202117:01:00GMT+0800(SingaporeStandardTime),FailedAt:J36.SI,Error:duplicatekeyvalueviolatesuniqueconstraint"stk_pkey"
+Time:MonMay17202117:01:12GMT+0800(SingaporeStandardTime),FailedAt:BYJ.SI,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelector'ofnull
+at__puppeteer_evaluation_script__:3:39
+Time:MonMay17202117:01:39GMT+0800(SingaporeStandardTime),FailedAt:COI.SI,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelector'ofnull
+at__puppeteer_evaluation_script__:3:39
+Time:MonMay17202117:02:10GMT+0800(SingaporeStandardTime),FailedAt:BYI.SI,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelector'ofnull
+at__puppeteer_evaluation_script__:3:39
+Time:MonMay17202117:07:14GMT+0800(SingaporeStandardTime),FailedAt:XZL.SI,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelectorAll'ofnull
+at__puppeteer_evaluation_script__:5:110
+Time:MonMay17202117:08:52GMT+0800(SingaporeStandardTime),FailedAt:MXNU.SI,Error:Cannotreadproperty'ex_rate'ofundefined
+Time:MonMay17202117:10:12GMT+0800(SingaporeStandardTime),FailedAt:MXNU.SI,Error:Cannotreadproperty'ex_rate'ofundefined
+Time:MonMay17202117:11:10GMT+0800(SingaporeStandardTime),FailedAt:MXNU.SI,Error:Cannotreadproperty'ex_rate'ofundefined
+Time:MonMay17202117:11:57GMT+0800(SingaporeStandardTime),FailedAt:MXNU.SI,Error:s.fiscalDateEnding.getFullYearisnotafunction
+Time:MonMay17202117:12:29GMT+0800(SingaporeStandardTime),FailedAt:MXNU.SI,Error:Cannotreadproperty'ex_rate'ofundefined
+Time:MonMay17202117:26:49GMT+0800(SingaporeStandardTime),FailedAt:LIW.SI,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:MonMay17202117:27:02GMT+0800(SingaporeStandardTime),FailedAt:LIW.SI,Error:Cannotdestructureproperty'totalAssets'of'b'asitisundefined.
+Time:WedMay19202115:14:42GMT+0800(SingaporeStandardTime),FailedAt:undefined,Error:Couldnotfindexpectedbrowser(chrome)locally.Run`npminstall`todownloadthecorrectChromiumrevision(856583).
+Time:WedMay19202115:15:22GMT+0800(SingaporeStandardTime),FailedAt:0004.HK,Error:valuetoolongfortypecharactervarying(3000)
+Time:WedMay19202116:23:50GMT+0800(SingaporeStandardTime),FailedAt:0067.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelector'ofnull
+at__puppeteer_evaluation_script__:3:39
+Time:WedMay19202116:35:15GMT+0800(SingaporeStandardTime),FailedAt:0067.HK,Error:Evaluationfailed:TypeError:Cannotreadproperty'querySelector'ofnull
+at__puppeteer_evaluation_script__:3:39
+Time: Thu May 27 2021 10:15:38 GMT+0800 (Singapore Standard Time), Failed At: AAPL, Error: duplicate key value violates unique constraint "stk_pkey"
+Time: Thu May 27 2021 10:17:03 GMT+0800 (Singapore Standard Time), Failed At: APPS, Error: s is not defined
+Time: Sat Jul 03 2021 15:13:29 GMT+0800 (Singapore Standard Time), Failed At: undefined, Error: Could not find expected browser (chrome) locally. Run `npm install` to download the correct Chromium revision (856583).
+Time: Sun Jul 11 2021 15:54:10 GMT+0800 (Singapore Standard Time), Failed At: LULU, Error: insert or update on table "stk_fs" violates foreign key constraint "fk_code"
+Time: Sun Jul 11 2021 16:39:57 GMT+0800 (Singapore Standard Time), Failed At: 3690.HK, Error: Evaluation failed: ReferenceError: ticker is not defined
+    at __puppeteer_evaluation_script__:11:9
+Time: Sun Jul 11 2021 16:42:39 GMT+0800 (Singapore Standard Time), Failed At: 3690.HK, Error: Evaluation failed: ReferenceError: ticker is not defined
+    at __puppeteer_evaluation_script__:12:9
+Time: Sun Jul 11 2021 16:44:50 GMT+0800 (Singapore Standard Time), Failed At: 3690.HK, Error: Evaluation failed: ReferenceError: ticker is not defined
+    at __puppeteer_evaluation_script__:12:9
+Time: Sun Jul 11 2021 16:48:07 GMT+0800 (Singapore Standard Time), Failed At: 3690.HK, Error: Evaluation failed: TypeError: Cannot read property 'splice' of undefined
+    at __puppeteer_evaluation_script__:11:20
+Time: Sun Jul 11 2021 16:52:23 GMT+0800 (Singapore Standard Time), Failed At: 3690.HK, Error: duplicate key value violates unique constraint "stk_fs_ux"
+Time: Mon Jul 26 2021 11:24:35 GMT+0800 (Singapore Standard Time), Failed At: undefined, Error: Could not find expected browser (chrome) locally. Run `npm install` to download the correct Chromium revision (856583).
+Time: Mon Jul 26 2021 11:24:53 GMT+0800 (Singapore Standard Time), Failed At: undefined, Error: 3rd arg required
+Time: Mon Jul 26 2021 12:16:09 GMT+0800 (Singapore Standard Time), Failed At: undefined, Error: getTickersFSToUpdate is not defined
+Time: Mon Jul 26 2021 12:16:26 GMT+0800 (Singapore Standard Time), Failed At: undefined, Error: Assignment to constant variable.
+Time: Mon Jul 26 2021 12:17:04 GMT+0800 (Singapore Standard Time), Failed At: undefined, Error: Assignment to constant variable.
+Time: Mon Jul 26 2021 14:17:32 GMT+0800 (Singapore Standard Time), Failed At: N2IU.SI, Error: bs is not iterable
+Time: Mon Jul 26 2021 14:18:21 GMT+0800 (Singapore Standard Time), Failed At: N2IU.SI, Error: Cannot read property 'split' of undefined
+Time: Mon Jul 26 2021 14:18:58 GMT+0800 (Singapore Standard Time), Failed At: N2IU.SI, Error: Cannot read property 'year' of undefined
+Time: Mon Jul 26 2021 14:19:47 GMT+0800 (Singapore Standard Time), Failed At: N2IU.SI, Error: Cannot read property 'year' of undefined
+Time: Mon Jul 26 2021 14:20:51 GMT+0800 (Singapore Standard Time), Failed At: N2IU.SI, Error: duplicate key value violates unique constraint "stk_fs_ux"
+Time: Mon Jul 26 2021 14:21:59 GMT+0800 (Singapore Standard Time), Failed At: N2IU.SI, Error: duplicate key value violates unique constraint "stk_fs_ux"
+Time: Mon Jul 26 2021 14:42:12 GMT+0800 (Singapore Standard Time), Failed At: 0067.HK, Error: Evaluation failed: TypeError: Cannot read property 'querySelector' of null
+    at __puppeteer_evaluation_script__:3:39
+Time: Mon Jul 26 2021 14:43:44 GMT+0800 (Singapore Standard Time), Failed At: 0001.HK, Error: duplicate key value violates unique constraint "stk_pkey"
+Time: Mon Jul 26 2021 14:47:03 GMT+0800 (Singapore Standard Time), Failed At: 0155.HK, Error: Evaluation failed: TypeError: Cannot read property 'querySelector' of null
+    at __puppeteer_evaluation_script__:3:39
+Time: Mon Jul 26 2021 14:54:53 GMT+0800 (Singapore Standard Time), Failed At: 0191.HK, Error: profile is not defined
+Time: Mon Jul 26 2021 22:24:34 GMT+0800 (Singapore Standard Time), Failed At: undefined, Error: Could not find expected browser (chrome) locally. Run `npm install` to download the correct Chromium revision (856583).
+Time: Mon Jul 26 2021 22:43:00 GMT+0800 (Singapore Standard Time), Failed At: 0080.HK, Error: numeric field overflow
+Time: Mon Jul 26 2021 23:07:21 GMT+0800 (Singapore Standard Time), Failed At: 0080.HK, Error: numeric field overflow
+Time: Wed Jul 28 2021 10:56:08 GMT+0800 (Singapore Standard Time), Failed At: undefined, Error: Could not find expected browser (chrome) locally. Run `npm install` to download the correct Chromium revision (856583).
+Time: Thu Jul 29 2021 21:37:24 GMT+0800 (Singapore Standard Time), Failed At: undefined, Error: Could not find expected browser (chrome) locally. Run `npm install` to download the correct Chromium revision (856583).
+Time: Thu Jul 29 2021 23:21:32 GMT+0800 (Singapore Standard Time), Failed At: 0001.HK, Error: Cannot read property 'amt' of undefined
+Time: Thu Jul 29 2021 23:22:18 GMT+0800 (Singapore Standard Time), Failed At: 0001.HK, Error: Cannot read property 'amt' of undefined
+Time: Thu Jul 29 2021 23:24:12 GMT+0800 (Singapore Standard Time), Failed At: 0001.HK, Error: Cannot read property 'amt' of undefined
+Time: Thu Jul 29 2021 23:25:29 GMT+0800 (Singapore Standard Time), Failed At: 0001.HK, Error: Cannot read property 'amt' of undefined
+Time: Thu Jul 29 2021 23:26:46 GMT+0800 (Singapore Standard Time), Failed At: 0001.HK, Error: INSERT has more target columns than expressions
+Time: Thu Jul 29 2021 23:38:32 GMT+0800 (Singapore Standard Time), Failed At: 0159.HK, Error: invalid input syntax for type numeric: "Infinity"
+Time: Thu Jul 29 2021 23:49:53 GMT+0800 (Singapore Standard Time), Failed At: 0159.HK, Error: invalid input syntax for type numeric: "Infinity"

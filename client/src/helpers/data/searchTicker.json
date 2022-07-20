@@ -1,0 +1,470 @@
+[
+    {
+        "ticker": "1810.HK",
+        "name": "Xiaomi Corporation"
+    },
+    {
+        "ticker": "3690.HK",
+        "name": "Meituan"
+    },
+    {
+        "ticker": "9988.HK",
+        "name": "Alibaba Group Holding Limited"
+    },
+    {
+        "ticker": "0700.HK",
+        "name": "Tencent Holdings Limited"
+    },
+    {
+        "ticker": "2382.HK",
+        "name": "Sunny Optical Technology (Group) Company Limited"
+    },
+    {
+        "ticker": "3888.HK",
+        "name": "Kingsoft Corporation Limited"
+    },
+    {
+        "ticker": "9618.HK",
+        "name": "JD.com, Inc."
+    },
+    {
+        "ticker": "0981.HK",
+        "name": "Semiconductor Manufacturing International Corporation"
+    },
+    {
+        "ticker": "0268.HK",
+        "name": "Kingdee International Software Group Company Limited"
+    },
+    {
+        "ticker": "0241.HK",
+        "name": "Alibaba Health Information Technology Limited"
+    },
+    {
+        "ticker": "0992.HK",
+        "name": "Lenovo Group Limited"
+    },
+    {
+        "ticker": "1833.HK",
+        "name": "Ping An Healthcare and Technology Company Limited"
+    },
+    {
+        "ticker": "2400.HK",
+        "name": "XD Inc."
+    },
+    {
+        "ticker": "2018.HK",
+        "name": "AAC Technologies Holdings Inc."
+    },
+    {
+        "ticker": "0285.HK",
+        "name": "BYD Electronic (International) Company Limited"
+    },
+    {
+        "ticker": "0522.HK",
+        "name": "ASM Pacific Technology Limited"
+    },
+    {
+        "ticker": "9999.HK",
+        "name": "NetEase, Inc."
+    },
+    {
+        "ticker": "0772.HK",
+        "name": "China Literature Limited"
+    },
+    {
+        "ticker": "6060.HK",
+        "name": "ZhongAn Online P & C Insurance Co., Ltd."
+    },
+    {
+        "ticker": "2013.HK",
+        "name": "Weimob Inc."
+    },
+    {
+        "ticker": "0763.HK",
+        "name": "ZTE Corporation"
+    },
+    {
+        "ticker": "0780.HK",
+        "name": "Tongcheng-Elong Holdings Limited"
+    },
+    {
+        "ticker": "1797.HK",
+        "name": "Koolearn Technology Holding Limited"
+    },
+    {
+        "ticker": "1347.HK",
+        "name": "Hua Hong Semiconductor Limited"
+    },
+    {
+        "ticker": "1896.HK",
+        "name": "Maoyan Entertainment"
+    },
+    {
+        "ticker": "0136.HK",
+        "name": "HengTen Networks Group Limited"
+    },
+    {
+        "ticker": "6088.HK",
+        "name": "FIT Hon Teng Limited"
+    },
+    {
+        "ticker": "1478.HK",
+        "name": "Q Technology (Group) Company Limited"
+    },
+    {
+        "ticker": "0777.HK",
+        "name": "NetDragon Websoft Holdings Limited"
+    },
+    {
+        "ticker": "2858.HK",
+        "name": "Yixin Group Limited"
+    },
+    {
+        "ticker": "0005.HK",
+        "name": "HSBC Holdings plc"
+    },
+    {
+        "ticker": "S63.SI",
+        "name": "Singapore Technologies Engineering Ltd"
+    },
+    {
+        "ticker": "CY6U.SI",
+        "name": "Ascendas India Trust"
+    },
+    {
+        "ticker": "CEDU.SI",
+        "name": "Dasin Retail Trust"
+    },
+    {
+        "ticker": "O5RU.SI",
+        "name": "AIMS APAC REIT"
+    },
+    {
+        "ticker": "P40U.SI",
+        "name": "Starhill Global Real Estate Investment Trust"
+    },
+    {
+        "ticker": "CRPU.SI",
+        "name": "Sasseur Real Estate Investment Trust"
+    },
+    {
+        "ticker": "BWCU.SI",
+        "name": "EC World Real Estate Investment Trust"
+    },
+    {
+        "ticker": "SK6U.SI",
+        "name": "SPH REIT"
+    },
+    {
+        "ticker": "RW0U.SI",
+        "name": "Mapletree North Asia Commercial Trust"
+    },
+    {
+        "ticker": "J85.SI",
+        "name": "CDL Hospitality Trusts"
+    },
+    {
+        "ticker": "XZL.SI",
+        "name": "ARA US Hospitality Trust"
+    },
+    {
+        "ticker": "H78.SI",
+        "name": "Hongkong Land Holdings Limited"
+    },
+    {
+        "ticker": "M44U.SI",
+        "name": "Mapletree Logistics Trust"
+    },
+    {
+        "ticker": "Q5T.SI",
+        "name": "Far East Hospitality Trust"
+    },
+    {
+        "ticker": "M1GU.SI",
+        "name": "Sabana Shari'ah Compliant Industrial Real Estate Investment Trust"
+    },
+    {
+        "ticker": "BMGU.SI",
+        "name": "BHG Retail REIT"
+    },
+    {
+        "ticker": "HMN.SI",
+        "name": "Ascott Residence Trust"
+    },
+    {
+        "ticker": "Z74.SI",
+        "name": "Singapore Telecommunications Limited"
+    },
+    {
+        "ticker": "S68.SI",
+        "name": "Singapore Exchange Limited"
+    },
+    {
+        "ticker": "BUOU.SI",
+        "name": "Frasers Logistics & Commercial Trust"
+    },
+    {
+        "ticker": "D01.SI",
+        "name": "Dairy Farm International Holdings Limited"
+    },
+    {
+        "ticker": "KO",
+        "name": "The Coca-Cola Company"
+    },
+    {
+        "ticker": "DOW",
+        "name": "Dow Inc."
+    },
+    {
+        "ticker": "A17U.SI",
+        "name": "Ascendas Real Estate Investment Trust"
+    },
+    {
+        "ticker": "C38U.SI",
+        "name": "CapitaLand Integrated Commercial Trust"
+    },
+    {
+        "ticker": "G13.SI",
+        "name": "Genting Singapore Limited"
+    },
+    {
+        "ticker": "BN4.SI",
+        "name": "Keppel Corporation Limited"
+    },
+    {
+        "ticker": "BS6.SI",
+        "name": "Yangzijiang Shipbuilding (Holdings) Ltd."
+    },
+    {
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corporation"
+    },
+    {
+        "ticker": "U14.SI",
+        "name": "UOL Group Limited"
+    },
+    {
+        "ticker": "U11.SI",
+        "name": "United Overseas Bank Limited"
+    },
+    {
+        "ticker": "C31.SI",
+        "name": "CapitaLand Limited"
+    },
+    {
+        "ticker": "C07.SI",
+        "name": "Jardine Cycle & Carriage Limited"
+    },
+    {
+        "ticker": "C6L.SI",
+        "name": "Singapore Airlines Limited"
+    },
+    {
+        "ticker": "V03.SI",
+        "name": "Venture Corporation Limited"
+    },
+    {
+        "ticker": "T39.SI",
+        "name": "Singapore Press Holdings Limited"
+    },
+    {
+        "ticker": "O39.SI",
+        "name": "Oversea-Chinese Banking Corporation Limited"
+    },
+    {
+        "ticker": "C52.SI",
+        "name": "ComfortDelGro Corporation Limited"
+    },
+    {
+        "ticker": "ME8U.SI",
+        "name": "Mapletree Industrial Trust"
+    },
+    {
+        "ticker": "F34.SI",
+        "name": "Wilmar International Limited"
+    },
+    {
+        "ticker": "N2IU.SI",
+        "name": "Mapletree Commercial Trust"
+    },
+    {
+        "ticker": "D05.SI",
+        "name": "DBS Group Holdings Ltd"
+    },
+    {
+        "ticker": "S58.SI",
+        "name": "SATS Ltd."
+    },
+    {
+        "ticker": "C09.SI",
+        "name": "City Developments Limited"
+    },
+    {
+        "ticker": "MCD",
+        "name": "McDonald's Corporation"
+    },
+    {
+        "ticker": "J36.SI",
+        "name": "Jardine Matheson Holdings Limited"
+    },
+    {
+        "ticker": "Y92.SI",
+        "name": "Thai Beverage Public Company Limited"
+    },
+    {
+        "ticker": "U96.SI",
+        "name": "Sembcorp Industries Ltd"
+    },
+    {
+        "ticker": "MMM",
+        "name": "3M Company"
+    },
+    {
+        "ticker": "AXP",
+        "name": "American Express Company"
+    },
+    {
+        "ticker": "AAPL",
+        "name": "Apple Inc."
+    },
+    {
+        "ticker": "BA",
+        "name": "The Boeing Company"
+    },
+    {
+        "ticker": "CAT",
+        "name": "Caterpillar Inc."
+    },
+    {
+        "ticker": "CVX",
+        "name": "Chevron Corporation"
+    },
+    {
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc."
+    },
+    {
+        "ticker": "GS",
+        "name": "The Goldman Sachs Group, Inc."
+    },
+    {
+        "ticker": "HD",
+        "name": "The Home Depot, Inc."
+    },
+    {
+        "ticker": "INTC",
+        "name": "Intel Corporation"
+    },
+    {
+        "ticker": "IBM",
+        "name": "International Business Machines Corporation"
+    },
+    {
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson"
+    },
+    {
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co."
+    },
+    {
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc."
+    },
+    {
+        "ticker": "MSFT",
+        "name": "Microsoft Corporation"
+    },
+    {
+        "ticker": "NKE",
+        "name": "NIKE, Inc."
+    },
+    {
+        "ticker": "PFE",
+        "name": "Pfizer Inc."
+    },
+    {
+        "ticker": "PG",
+        "name": "The Procter & Gamble Company"
+    },
+    {
+        "ticker": "RTX",
+        "name": "Raytheon Technologies Corporation"
+    },
+    {
+        "ticker": "TSLA",
+        "name": "Tesla, Inc."
+    },
+    {
+        "ticker": "TRV",
+        "name": "The Travelers Companies, Inc."
+    },
+    {
+        "ticker": "UNH",
+        "name": "UnitedHealth Group Incorporated"
+    },
+    {
+        "ticker": "VZ",
+        "name": "Verizon Communications Inc."
+    },
+    {
+        "ticker": "V",
+        "name": "Visa Inc."
+    },
+    {
+        "ticker": "WBA",
+        "name": "Walgreens Boots Alliance, Inc."
+    },
+    {
+        "ticker": "WMT",
+        "name": "Walmart Inc."
+    },
+    {
+        "ticker": "AJBU.SI",
+        "name": "Keppel DC REIT"
+    },
+    {
+        "ticker": "AW9U.SI",
+        "name": "First Real Estate Investment Trust"
+    },
+    {
+        "ticker": "J91U.SI",
+        "name": "ESR-REIT"
+    },
+    {
+        "ticker": "C2PU.SI",
+        "name": "Parkway Life Real Estate Investment Trust"
+    },
+    {
+        "ticker": "MXNU.SI",
+        "name": "Elite Commercial REIT"
+    },
+    {
+        "ticker": "J69U.SI",
+        "name": "Frasers Centrepoint Trust"
+    },
+    {
+        "ticker": "T82U.SI",
+        "name": "Suntec Real Estate Investment Trust"
+    },
+    {
+        "ticker": "K2LU.SI",
+        "name": "ARA LOGOS Logistics Trust"
+    },
+    {
+        "ticker": "BTOU.SI",
+        "name": "Manulife US Real Estate Investment Trust"
+    },
+    {
+        "ticker": "AU8U.SI",
+        "name": "CapitaLand China Trust"
+    },
+    {
+        "ticker": "M04.SI",
+        "name": "Mandarin Oriental International Limited"
+    },
+    {
+        "ticker": "D8DU.SI",
+        "name": "First Ship Lease Trust"
+    }
+]

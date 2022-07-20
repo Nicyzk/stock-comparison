@@ -1,0 +1,11 @@
+.limit-width {
+    max-width: 1200px;
+}
+
+.profile-item {
+    border-bottom: 1px solid #ddd;
+}
+
+.profile-item:hover {
+    background-color: var(--lavender);
+}

@@ -1,0 +1,18 @@
+.delete-row-bubble {
+	border-radius: 5px;
+    z-index: 25;
+}
+
+.delete-row-bubble:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 18px;
+	width: 0;
+	height: 0;
+	border: 8px solid transparent;
+	border-top-color: var(--primary);
+	border-bottom: 0;
+	margin-left: -8px;
+	margin-bottom: -8px;
+}

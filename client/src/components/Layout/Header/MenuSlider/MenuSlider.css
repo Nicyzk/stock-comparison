@@ -1,0 +1,19 @@
+.slider {
+    position: fixed;
+    height: 90vh;
+    width: 100vw;
+    transition: 0.35s ease;
+    z-index: 5;
+}
+
+@media (min-width: 768px) {
+  
+    .slider-collapse-md {
+      display: none;
+    }
+
+}
+
+.options-border-btm > div {
+    border-bottom: 1px solid rgba(179,187,193,0.25);
+}

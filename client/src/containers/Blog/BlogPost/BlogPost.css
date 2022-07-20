@@ -1,0 +1,76 @@
+.post-hero {
+    background-size: cover;
+    background-position: center;
+    min-height: 36rem;
+    width: 100%;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.layout-post-content {
+    width: 100%;
+}
+
+.post-content > section ul > li {
+    position: relative;
+    padding-left: 1.5em;
+    margin: 1rem 0rem;
+}
+
+.post-content > section ul > li.default:before {
+    position: absolute;
+    left: 0;
+    content: '•';
+}
+
+.post-content > section ul > li.check:before {
+    position: absolute;
+    left: 0;
+    content: '✔';
+    color: green;
+}
+
+.post-content > section ul > li.cross:before {
+    position: absolute;
+    left: 0;
+    content: '✘';
+    color: red; 
+}
+
+.layout-post-toc {
+    display: none;
+}
+
+.post-toc {
+    padding: 2rem 0rem 0rem 3rem;
+}
+
+.post-toc > ul > li{
+    margin: 1rem 0rem;
+}
+
+.post-toc > ul > li:hover {
+    cursor: pointer;
+    color: var(--purple);
+    transition: 0.2s;
+}
+
+.post-toc > ul > li.active {
+    color: var(--purple);
+}
+
+@media (min-width: 768px) {
+    .layout-post-content {
+        width: 80%;
+    }
+
+    .layout-post-toc {
+        display: block;
+        width: 20%;
+        top: 4rem;
+        align-self: flex-start;
+        position: sticky;
+    }
+}
+
+
